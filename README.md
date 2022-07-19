@@ -8,3 +8,8 @@
 
 Jogo desenvolvido em Python, onde é utlizado comandos de terminal para joga-lo.
 
+Regras do jogo:
+
+![RegrasDoJogo_ZombieDice_page-0001](https://user-images.githubusercontent.com/100223807/179667950-78816bf9-875e-4a23-bd5e-58cddb54a789.jpg)
+
+
